@@ -1,0 +1,22 @@
+# Song-Play
+The Song Play was a academy project in group, that we created a full system using the following technologies: ReactJS(Front-end), and Java(Back-end).
+
+![Screenshot from 2023-02-10 17-53-21](https://user-images.githubusercontent.com/60006798/218197369-4327ebb3-8dd1-4b17-8d2c-7d1fb95d3529.png)
+![Screenshot from 2023-02-10 17-53-39](https://user-images.githubusercontent.com/60006798/218197376-ca5af10e-b4db-40ea-a42d-9f3465cc37e1.png)
+![Screenshot from 2023-02-10 17-53-52](https://user-images.githubusercontent.com/60006798/218197378-f6786ed5-0025-4d3b-8949-17383f02897a.png)
+![Screenshot from 2023-02-10 17-54-01](https://user-images.githubusercontent.com/60006798/218197379-14cf882d-7e2a-4090-a685-808e664face5.png)
+![Screenshot from 2023-02-10 17-54-18](https://user-images.githubusercontent.com/60006798/218197381-39312874-e34b-46ed-8719-0007fd5aad05.png)
+![Screenshot from 2023-02-10 17-54-34](https://user-images.githubusercontent.com/60006798/218197384-778e584a-c12a-4a90-a018-0991e06b0b27.png)
+![Screenshot from 2023-02-10 17-54-44](https://user-images.githubusercontent.com/60006798/218197387-44455ce7-8312-4899-9c01-1f65401be202.png)
+![Screenshot from 2023-02-10 17-54-57](https://user-images.githubusercontent.com/60006798/218197395-e1992d5e-cdb3-4933-a5f2-694bcb6af3ab.png)
+![Screenshot from 2023-02-10 17-55-10](https://user-images.githubusercontent.com/60006798/218197399-8141aef2-b38b-4eba-8eb7-9d62cac68981.png)
+![Screenshot from 2023-02-10 17-57-26](https://user-images.githubusercontent.com/60006798/218197408-5a49c2c8-0f99-486d-a647-c878a214b28c.png)
+![Screenshot from 2023-02-10 17-58-11](https://user-images.githubusercontent.com/60006798/218197412-d1470b1b-b3e9-4eb3-95ee-8a86c31a8c6c.png)
+![Screenshot from 2023-02-10 17-58-24](https://user-images.githubusercontent.com/60006798/218197418-b24f0f78-6d6e-40ac-854a-8d26e2cf1ed5.png)
+![Screenshot from 2023-02-10 17-58-32](https://user-images.githubusercontent.com/60006798/218197424-25fb4749-3d08-4306-b9b4-f8192f41e57c.png)
+![Screenshot from 2023-02-10 17-58-50](https://user-images.githubusercontent.com/60006798/218197431-80d0cd5f-578f-416c-a87a-bd39c6ac22b1.png)
+![Screenshot from 2023-02-10 17-59-20](https://user-images.githubusercontent.com/60006798/218197440-558d5e98-6d91-4fa3-af49-720dd15af526.png)
+![Screenshot from 2023-02-10 17-59-37](https://user-images.githubusercontent.com/60006798/218197444-d27896ac-4f1f-46af-8565-ed5831ee93d8.png)
+![Screenshot from 2023-02-10 17-59-53](https://user-images.githubusercontent.com/60006798/218197445-3e19bb85-5e2b-4d27-aeaf-59b139d3bc2f.png)
+![Screenshot from 2023-02-10 18-00-06](https://user-images.githubusercontent.com/60006798/218197447-1923414e-6b60-4394-bdec-c8a83d049aeb.png)
+![Screenshot from 2023-02-10 18-00-24](https://user-images.githubusercontent.com/60006798/218197450-b9017225-9cc3-4f4a-96a7-c57f756b8f7f.png)
